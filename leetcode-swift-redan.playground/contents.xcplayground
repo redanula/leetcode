@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='202. 快乐数 - best'/>
+        <page name='202. 快乐数'/>
+        <page name='1095. 山脉数组中查找目标值'/>
+    </pages>
+</playground>

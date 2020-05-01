@@ -1,5 +1,6 @@
 func isHappy(_ n: Int) -> Bool {
     var dic: [Int:Int] = [:]
+    dic[n] = 1
     var sum = sumAll(n)
     
     while true {
