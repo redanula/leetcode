@@ -29,4 +29,4 @@ func sumAll(_ m: Int) -> Int {
     return sum
 }
 
-var ref = isHappy(19)
+// var ref = isHappy(19)
