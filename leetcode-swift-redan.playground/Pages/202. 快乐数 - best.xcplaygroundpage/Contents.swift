@@ -1,6 +1,9 @@
 
 /*
-    * 快慢指针破循环
+    Best
+    关键：快慢指针破循环
+    时间复杂度：O(logN)
+    空间复杂度：O(1)
 */
 
 func isHappy(_ n: Int) -> Bool {

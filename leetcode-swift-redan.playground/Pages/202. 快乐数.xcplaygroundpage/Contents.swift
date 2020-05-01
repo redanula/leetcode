@@ -1,3 +1,10 @@
+/*
+    First
+    关键：Hash
+    时间复杂度：O(logN)
+    空间复杂度：O(logN)
+*/
+
 func isHappy(_ n: Int) -> Bool {
     var dic: [Int:Int] = [:]
     dic[n] = 1
