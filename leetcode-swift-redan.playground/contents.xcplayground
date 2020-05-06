@@ -7,5 +7,6 @@
         <page name='21. 合并两个有序链表'/>
         <page name='0.Temp'/>
         <page name='3. 无重复字符的最长子串'/>
+        <page name='98.验证二叉搜索树'/>
     </pages>
 </playground>
