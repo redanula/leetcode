@@ -61,7 +61,7 @@ let s = TreeNode.init(3,s1,s2)
 
 let r = isSubtree(s, t)
 
-////// case 2
+// case 2
 //let t1 = TreeNode.init(1)
 //let t = TreeNode.init(1,nil,nil)
 //
