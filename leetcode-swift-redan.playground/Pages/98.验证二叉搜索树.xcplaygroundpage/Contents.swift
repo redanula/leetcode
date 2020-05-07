@@ -1,9 +1,11 @@
 /*
     98. 验证二叉搜索树
-    First / Best
+    First
     关键：递归
-    时间复杂度：O(m+n)
-    空间复杂度：O(1)
+    时间复杂度：O(n)
+    空间复杂度：O(n)
+ 
+    Best可以用中序遍历，TODO
 */
 
 public class TreeNode {
