@@ -13,5 +13,6 @@
         <page name='98.验证二叉搜索树 - best'/>
         <page name='69. x 的平方根'/>
         <page name='236. 二叉树的最近公共祖先'/>
+        <page name='50.Pow(x, n)'/>
     </pages>
 </playground>
