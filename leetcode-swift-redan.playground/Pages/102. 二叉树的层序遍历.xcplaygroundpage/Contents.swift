@@ -1,9 +1,9 @@
 /*
     102. 二叉树的层序遍历
-    First
-    关键：层序遍历
+    First / Bset
+    关键：DFS(如下) 或 BFS
     时间复杂度：O(n)
-    空间复杂度：O(1)
+    空间复杂度：O(n)
 
 */
 public class TreeNode {
