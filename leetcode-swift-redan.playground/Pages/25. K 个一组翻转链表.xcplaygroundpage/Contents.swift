@@ -1,7 +1,7 @@
 /*
     25. K 个一组翻转链表
-    First / Bset
-    关键：
+    Bset
+    关键：翻转子链表、生成一个preHead巧妙解决Head第一个翻转后要找回的问题
     时间复杂度：O(n + k)
     空间复杂度：O(k)
 
@@ -18,33 +18,45 @@ public class ListNode {
 
 func reverseKGroup(_ head: ListNode?, _ k: Int) -> ListNode? {
     
-    var kArray = Array.init(repeating: ListNode.init(0), count: k)
-    var pre = head
-    repeat {
-        for i in 0 ..< k {
-            if let next = pre {
-                kArray[i] = next
-            }else {
-                break
-            }
+    guard let head = head else {
+        return nil
+    }
+    
+    let preHead = ListNode.init(0)
+    preHead.next = head
+    
+    var pre: ListNode? = preHead
+    var end: ListNode? = preHead
+    while end?.next != nil {
+        for _ in 0 ..< k {
+            end = end?.next
         }
-        
-        if kArray.count == k {
-            kArray[0].next = kArray[k-1].next
-            for i in 0 ..< k - 1 {
-                kArray[k-1-i].next = kArray[k-2-i]
-            }
-            pre = kArray[0].next
-        } else {
+        if end == nil {
             break
         }
         
-        
-    } while pre != nil
+        let start = pre?.next
+        let endNext = end?.next
+        end?.next = nil // 断开后才能翻转
+        pre?.next = reverseNode(start)
+        start?.next = endNext
+        pre = start
+        end = pre
+    }
+    return preHead.next
     
-    
-    return head
-    
+}
+
+func reverseNode(_ head: ListNode?) -> ListNode? {
+    var pre: ListNode?
+    var cur = head
+    while cur != nil {
+        let tempNext = cur!.next // 记录下个节点
+        cur!.next = pre // 修改next指向
+        pre = cur // 存储当前节点
+        cur = tempNext // 修改遍历位置，从下个节点开始
+    }
+    return pre
 }
 
 
