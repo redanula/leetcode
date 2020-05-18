@@ -20,5 +20,6 @@
         <page name='560. 和为K的子数组'/>
         <page name='25. K 个一组翻转链表'/>
         <page name='210. 课程表 II'/>
+        <page name='152. 乘积最大子数组 '/>
     </pages>
 </playground>
