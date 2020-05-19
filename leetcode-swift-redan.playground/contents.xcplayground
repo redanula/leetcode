@@ -22,5 +22,6 @@
         <page name='210. 课程表 II'/>
         <page name='152. 乘积最大子数组 '/>
         <page name='680. 验证回文字符串 Ⅱ'/>
+        <page name='1371. 每个元音包含偶数次的最长子字符串'/>
     </pages>
 </playground>
