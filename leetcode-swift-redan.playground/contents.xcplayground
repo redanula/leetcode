@@ -25,5 +25,6 @@
         <page name='1371. 每个元音包含偶数次的最长子字符串'/>
         <page name='5. 最长回文子串'/>
         <page name='105. 从前序与中序遍历序列构造二叉树'/>
+        <page name='1. 两数之和'/>
     </pages>
 </playground>
