@@ -24,5 +24,6 @@
         <page name='680. 验证回文字符串 Ⅱ'/>
         <page name='1371. 每个元音包含偶数次的最长子字符串'/>
         <page name='5. 最长回文子串'/>
+        <page name='105. 从前序与中序遍历序列构造二叉树'/>
     </pages>
 </playground>
