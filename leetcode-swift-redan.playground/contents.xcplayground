@@ -26,5 +26,6 @@
         <page name='5. 最长回文子串'/>
         <page name='105. 从前序与中序遍历序列构造二叉树'/>
         <page name='1. 两数之和'/>
+        <page name='76. 最小覆盖子串'/>
     </pages>
 </playground>
