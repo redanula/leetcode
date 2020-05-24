@@ -28,5 +28,6 @@
         <page name='1. 两数之和'/>
         <page name='76. 最小覆盖子串'/>
         <page name='4. 寻找两个正序数组的中位数'/>
+        <page name='2. 两数相加'/>
     </pages>
 </playground>
