@@ -22,7 +22,15 @@ let input2 = [
  
 
 // 链表
- 
+public class ListNode {
+    public var val: Int
+    public var next: ListNode?
+    public init(_ val: Int) {
+        self.val = val
+        self.next = nil
+    }
+}
+
 let l1 = ListNode(2)
 let l2 = ListNode(4)
 let l3 = ListNode(3)
@@ -42,6 +50,18 @@ while ans != nil {
 }
 
 // 树
+public class TreeNode {
+    public var val: Int
+    public var left: TreeNode?
+    public var right: TreeNode?
+    public init(_ val: Int) {
+        self.val = val
+        self.left = nil
+        self.right = nil
+    }
+}
+ 
+ 
 let a = TreeNode.init(2)
 let al = TreeNode.init(1)
 let ar = TreeNode.init(3)
