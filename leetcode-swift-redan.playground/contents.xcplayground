@@ -30,5 +30,6 @@
         <page name='4. 寻找两个正序数组的中位数'/>
         <page name='2. 两数相加'/>
         <page name='jz-03. 数组中重复的数字'/>
+        <page name='jz-04. 二维数组中的查找'/>
     </pages>
 </playground>
