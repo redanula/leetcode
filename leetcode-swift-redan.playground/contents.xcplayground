@@ -29,5 +29,6 @@
         <page name='76. 最小覆盖子串'/>
         <page name='4. 寻找两个正序数组的中位数'/>
         <page name='2. 两数相加'/>
+        <page name='jz-03. 数组中重复的数字'/>
     </pages>
 </playground>
