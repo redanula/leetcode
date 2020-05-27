@@ -2,8 +2,8 @@
     974. 和可被 K 整除的子数组
     First / Best
     关键：前缀和、注意负数
-    时间复杂度：
-    空间复杂度：
+    时间复杂度：O(n)
+    空间复杂度：O(min(k,n))
 */
 
 func subarraysDivByK(_ A: [Int], _ K: Int) -> Int {
