@@ -35,5 +35,6 @@
         <page name='jz-06. 从尾到头打印链表'/>
         <page name='146. LRU缓存机制'/>
         <page name='287. 寻找重复数'/>
+        <page name='974. 和可被 K 整除的子数组'/>
     </pages>
 </playground>
