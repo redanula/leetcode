@@ -39,5 +39,6 @@
         <page name='394. 字符串解码'/>
         <page name='198. 打家劫舍'/>
         <page name='84. 柱状图中最大的矩形'/>
+        <page name='101. 对称二叉树'/>
     </pages>
 </playground>
