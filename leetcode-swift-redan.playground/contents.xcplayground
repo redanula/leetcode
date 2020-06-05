@@ -45,5 +45,6 @@
         <page name='837. 新21点'/>
         <page name='238. 除自身以外数组的乘积'/>
         <page name='54. 螺旋矩阵'/>
+        <page name='128. 最长连续序列'/>
     </pages>
 </playground>
