@@ -46,6 +46,7 @@
         <page name='238. 除自身以外数组的乘积'/>
         <page name='54. 螺旋矩阵'/>
         <page name='128. 最长连续序列'/>
-        <page name='126. 单词接龙 II'/>
+        <page name='126. 单词接龙 II - bad'/>
+        <page name='990. 等式方程的可满足性'/>
     </pages>
 </playground>
