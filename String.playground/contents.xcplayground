@@ -4,5 +4,6 @@
         <page name='jz-05. 替换空格'/>
         <page name='1371. 每个元音包含偶数次的最长子字符串'/>
         <page name='680. 验证回文字符串 Ⅱ'/>
+        <page name='9. 回文数'/>
     </pages>
 </playground>
