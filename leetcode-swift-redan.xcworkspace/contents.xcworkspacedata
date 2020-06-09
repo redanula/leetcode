@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Total.playground">
+   </FileRef>
+   <FileRef
+      location = "group:&#x52a8;&#x6001;&#x89c4;&#x5212;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Hash.playground">
+   </FileRef>
+   <FileRef
+      location = "group:&#x6ed1;&#x52a8;&#x7a97;&#x53e3;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ylj/Documents/github/leetcode-swift-redanula/&#x6811;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DFS.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Math.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ylj/Documents/github/leetcode-swift-redanula/&#x6808;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:String.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ylj/Documents/github/leetcode-swift-redanula/&#x56fe;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ylj/Documents/github/leetcode-swift-redanula/&#x6392;&#x5e8f;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:BFS.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/ylj/Documents/github/leetcode-swift-redanula/&#x6570;&#x7ec4;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:&#x94fe;&#x8868;.playground">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='202. 快乐数 - best'/>
+        <page name='202. 快乐数'/>
+        <page name='jz-03. 数组中重复的数字'/>
+        <page name='1. 两数之和'/>
+        <page name='136. 只出现一次的数字'/>
+    </pages>
+</playground>

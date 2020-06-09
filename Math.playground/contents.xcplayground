@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='990. 等式方程的可满足性'/>
+        <page name='128. 最长连续序列'/>
+        <page name='238. 除自身以外数组的乘积'/>
+        <page name='jz-64. 求1+2+…+n'/>
+        <page name='1431. 拥有最多糖果的孩子'/>
+        <page name='974. 和可被 K 整除的子数组'/>
+        <page name='560. 和为K的子数组'/>
+        <page name='50.Pow(x, n)'/>
+    </pages>
+</playground>
