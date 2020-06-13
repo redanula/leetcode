@@ -7,5 +7,6 @@
         <page name='5. 最长回文子串'/>
         <page name='152. 乘积最大子数组 '/>
         <page name='221. 最大正方形'/>
+        <page name='70. 爬楼梯'/>
     </pages>
 </playground>
