@@ -12,5 +12,6 @@
         <page name='98.验证二叉搜索树'/>
         <page name='1095. 山脉数组中查找目标值'/>
         <page name='572. 另一个树的子树'/>
+        <page name='297. 二叉树的序列化与反序列化'/>
     </pages>
 </playground>
