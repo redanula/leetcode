@@ -14,5 +14,6 @@
         <page name='572. 另一个树的子树'/>
         <page name='297. 二叉树的序列化与反序列化'/>
         <page name='1028. 从先序遍历还原二叉树'/>
+        <page name='124. 二叉树中的最大路径和 '/>
     </pages>
 </playground>
