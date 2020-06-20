@@ -7,5 +7,6 @@
         <page name='9. 回文数'/>
         <page name='14. 最长公共前缀'/>
         <page name='125. 验证回文串'/>
+        <page name='10. 正则表达式匹配'/>
     </pages>
 </playground>
