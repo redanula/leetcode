@@ -8,5 +8,6 @@
         <page name='14. 最长公共前缀'/>
         <page name='125. 验证回文串'/>
         <page name='面试题 16.18. 模式匹配'/>
+        <page name='67. 二进制求和'/>
     </pages>
 </playground>
