@@ -9,5 +9,9 @@
         <page name='974. 和可被 K 整除的子数组'/>
         <page name='560. 和为K的子数组'/>
         <page name='50.Pow(x, n)'/>
+        <page name='15. 三数之和'/>
+        <page name='1014. 最佳观光组合'/>
+        <page name='1300. 转变数组后最接近目标值的数组和'/>
+        <page name='16. 最接近的三数之和'/>
     </pages>
 </playground>
