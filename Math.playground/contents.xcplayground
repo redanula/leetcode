@@ -13,5 +13,6 @@
         <page name='1014. 最佳观光组合'/>
         <page name='1300. 转变数组后最接近目标值的数组和'/>
         <page name='16. 最接近的三数之和'/>
+        <page name='41. 缺失的第一个正数'/>
     </pages>
 </playground>
