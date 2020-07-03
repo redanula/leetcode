@@ -10,5 +10,6 @@
         <page name='面试题 16.18. 模式匹配'/>
         <page name='67. 二进制求和'/>
         <page name='139. 单词拆分'/>
+        <page name='32. 最长有效括号'/>
     </pages>
 </playground>
