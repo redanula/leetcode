@@ -3,7 +3,7 @@
     First / Best
     关键：递归
     时间复杂度：O(n)
-    空间复杂度：O(1)
+    空间复杂度：O(log(n))
 */
 public class TreeNode {
     public var val: Int
@@ -18,19 +18,19 @@ public class TreeNode {
 
 class Solution {
     func sortedArrayToBST(_ nums: [Int]) -> TreeNode? {
-        return sortedArray(nums, 0, nums.count)
+        return sortedArray(nums, 0, nums.count - 1)
     }
     
     
     func sortedArray(_ nums: [Int], _ left: Int, _ right: Int) -> TreeNode? {
        
-        guard left < right, left >= 0 else {
+        guard left <= right else {
             return nil
         }
         
-        let mid = left + (right - left) / 2
+        let mid = (right + left) / 2
         let node = TreeNode.init(nums[mid])
-        node.left = sortedArray(nums, left, mid)
+        node.left = sortedArray(nums, left, mid - 1)
         node.right = sortedArray(nums, mid + 1, right)
         return node
     }
