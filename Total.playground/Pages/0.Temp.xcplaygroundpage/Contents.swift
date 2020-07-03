@@ -73,4 +73,20 @@ al.left = all
 al.right = alr
 let r = levelOrder(a)
 
+func test(_ node: TreeNode?) {
+  let n = node
+  if n != nil {
+      print("\(n!.val)")
+      test(n!.left)
+      test(n!.right)
+  }
+}
+
+let s = Solution()
+let r = s.sortedArrayToBST([-10,-3,0,5,9])
+let r2 = s.sortedArrayToBST([1,2,3,4,5,6,7])
+test(r)
+
+
+ 
 */
