@@ -10,5 +10,7 @@
         <page name='378. 有序矩阵中第K小的元素'/>
         <page name='108. 将有序数组转换为二叉搜索树'/>
         <page name='44. 通配符匹配'/>
+        <page name='5453. 所有蚂蚁掉下来前的最后一刻'/>
+        <page name='5452. 判断能否形成等差数列'/>
     </pages>
 </playground>
