@@ -6,6 +6,10 @@
     空间复杂度：
 */
 
+//let s = Solution()
+//let r = s.maxProfit([1,2,3,0,2])
+
+
 /*
 // 二维数组
 let input = [

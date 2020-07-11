@@ -16,5 +16,6 @@
         <page name='面试题 16.11. 跳水板'/>
         <page name='面试题 17.13. 恢复空格'/>
         <page name='309. 最佳买卖股票时机含冷冻期'/>
+        <page name='315. 计算右侧小于当前元素的个数'/>
     </pages>
 </playground>
