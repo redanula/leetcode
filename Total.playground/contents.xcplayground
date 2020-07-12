@@ -17,5 +17,7 @@
         <page name='面试题 17.13. 恢复空格'/>
         <page name='309. 最佳买卖股票时机含冷冻期'/>
         <page name='315. 计算右侧小于当前元素的个数'/>
+        <page name='5177. 转变日期格式'/>
+        <page name='174. 地下城游戏'/>
     </pages>
 </playground>
