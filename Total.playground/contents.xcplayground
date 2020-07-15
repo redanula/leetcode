@@ -22,5 +22,6 @@
         <page name='350. 两个数组的交集 II '/>
         <page name='120. 三角形最小路径和'/>
         <page name='96. 不同的二叉搜索树'/>
+        <page name='785. 判断二分图'/>
     </pages>
 </playground>
