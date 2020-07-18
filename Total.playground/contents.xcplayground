@@ -24,5 +24,6 @@
         <page name='96. 不同的二叉搜索树'/>
         <page name='785. 判断二分图'/>
         <page name='35. 搜索插入位置'/>
+        <page name='97. 交错字符串'/>
     </pages>
 </playground>
