@@ -31,5 +31,6 @@
         <page name='167. 两数之和 II - 输入有序数组'/>
         <page name='95. 不同的二叉搜索树 II'/>
         <page name='jz-11. 旋转数组的最小数字'/>
+        <page name='64. 最小路径和'/>
     </pages>
 </playground>
