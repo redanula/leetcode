@@ -33,6 +33,10 @@
         <page name='jz-11. 旋转数组的最小数字'/>
         <page name='64. 最小路径和'/>
         <page name='410. 分割数组的最大值'/>
-        <page name='Untitled Page'/>
+        <page name='1025. 除数博弈'/>
+        <page name='5472. 重新排列字符串'/>
+        <page name='5473. 灯泡开关 IV'/>
+        <page name='5474. 好叶子节点对的数量'/>
+        <page name='1448. 统计二叉树中好节点的数目'/>
     </pages>
 </playground>
