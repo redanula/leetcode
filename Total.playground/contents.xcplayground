@@ -40,5 +40,6 @@
         <page name='1448. 统计二叉树中好节点的数目'/>
         <page name='329. 矩阵中的最长递增路径'/>
         <page name='392. 判断子序列'/>
+        <page name='LCP 13. 寻宝'/>
     </pages>
 </playground>
