@@ -44,5 +44,6 @@
         <page name='343. 整数拆分'/>
         <page name='08.03. 魔术索引 '/>
         <page name='632. 最小区间'/>
+        <page name='114. 二叉树展开为链表'/>
     </pages>
 </playground>
