@@ -46,5 +46,6 @@
         <page name='632. 最小区间'/>
         <page name='114. 二叉树展开为链表'/>
         <page name='415. 字符串相加'/>
+        <page name='207. 课程表'/>
     </pages>
 </playground>
