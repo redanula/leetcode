@@ -48,5 +48,6 @@
         <page name='415. 字符串相加'/>
         <page name='207. 课程表'/>
         <page name='337. 打家劫舍 III'/>
+        <page name='93. 复原IP地址'/>
     </pages>
 </playground>
