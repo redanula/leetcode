@@ -12,5 +12,6 @@
         <page name='139. 单词拆分'/>
         <page name='32. 最长有效括号'/>
         <page name='336. 回文对'/>
+        <page name='696. 计数二进制子串'/>
     </pages>
 </playground>
