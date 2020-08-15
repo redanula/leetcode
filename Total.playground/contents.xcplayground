@@ -51,5 +51,6 @@
         <page name='93. 复原IP地址'/>
         <page name='130. 被围绕的区域'/>
         <page name='133. 克隆图 '/>
+        <page name='546. 移除盒子'/>
     </pages>
 </playground>
