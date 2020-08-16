@@ -52,5 +52,9 @@
         <page name='130. 被围绕的区域'/>
         <page name='133. 克隆图 '/>
         <page name='546. 移除盒子'/>
+        <page name='5488. 使数组中所有元素相等的最小操作数'/>
+        <page name='5489. 两球之间的磁力'/>
+        <page name='5185. 存在连续三个奇数的数组'/>
+        <page name='5490. 吃掉 N 个橘子的最少天数'/>
     </pages>
 </playground>
