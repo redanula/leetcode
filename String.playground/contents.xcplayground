@@ -15,5 +15,6 @@
         <page name='696. 计数二进制子串'/>
         <page name='43. 字符串相乘'/>
         <page name='20. 有效的括号'/>
+        <page name='647. 回文子串'/>
     </pages>
 </playground>
