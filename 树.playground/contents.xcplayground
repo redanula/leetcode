@@ -20,5 +20,6 @@
         <page name='100. 相同的树'/>
         <page name='99. 恢复二叉搜索树'/>
         <page name='110. 平衡二叉树'/>
+        <page name='109. 有序链表转换二叉搜索树'/>
     </pages>
 </playground>
