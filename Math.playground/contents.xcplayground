@@ -15,5 +15,6 @@
         <page name='16. 最接近的三数之和'/>
         <page name='41. 缺失的第一个正数'/>
         <page name='679. 24 点游戏'/>
+        <page name='201. 数字范围按位与'/>
     </pages>
 </playground>
