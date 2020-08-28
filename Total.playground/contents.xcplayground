@@ -58,5 +58,6 @@
         <page name='5490. 吃掉 N 个橘子的最少天数'/>
         <page name='332. 重新安排行程'/>
         <page name='657. 机器人能否返回原点'/>
+        <page name='214. 最短回文串'/>
     </pages>
 </playground>
