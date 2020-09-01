@@ -10,5 +10,6 @@
         <page name='70. 爬楼梯'/>
         <page name='10. 正则表达式匹配'/>
         <page name='53. 最大子序和'/>
+        <page name='486. 预测赢家'/>
     </pages>
 </playground>
