@@ -63,5 +63,6 @@
         <page name='60. 第k个排列'/>
         <page name='347. 前 K 个高频元素'/>
         <page name='77. 组合'/>
+        <page name='39. 组合总和'/>
     </pages>
 </playground>
