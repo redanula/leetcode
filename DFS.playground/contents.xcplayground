@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'/>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='491. 递增子序列 '/>
+        <page name='841. 钥匙和房间'/>
+        <page name='79. 单词搜索'/>
+    </pages>
+</playground>
