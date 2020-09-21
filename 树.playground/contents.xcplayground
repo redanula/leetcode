@@ -28,5 +28,6 @@
         <page name='94. 二叉树的中序遍历 '/>
         <page name='226. 翻转二叉树'/>
         <page name='404. 左叶子之和'/>
+        <page name='538. 把二叉搜索树转换为累加树'/>
     </pages>
 </playground>
