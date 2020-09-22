@@ -29,5 +29,6 @@
         <page name='226. 翻转二叉树'/>
         <page name='404. 左叶子之和'/>
         <page name='538. 把二叉搜索树转换为累加树'/>
+        <page name='968. 监控二叉树'/>
     </pages>
 </playground>
