@@ -32,5 +32,6 @@
         <page name='968. 监控二叉树'/>
         <page name='617. 合并二叉树'/>
         <page name='501. 二叉搜索树中的众数'/>
+        <page name='106. 从中序与后序遍历序列构造二叉树'/>
     </pages>
 </playground>
