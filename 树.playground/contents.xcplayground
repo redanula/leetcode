@@ -37,5 +37,6 @@
         <page name='235. 二叉搜索树的最近公共祖先'/>
         <page name='117. 填充每个节点的下一个右侧节点指针 II'/>
         <page name='145. 二叉树的后序遍历 '/>
+        <page name='701. 二叉搜索树中的插入操作'/>
     </pages>
 </playground>
