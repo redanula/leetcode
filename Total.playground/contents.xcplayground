@@ -66,5 +66,6 @@
         <page name='39. 组合总和'/>
         <page name='40. 组合总和 II'/>
         <page name='216. 组合总和 III'/>
+        <page name='75. 颜色分类'/>
     </pages>
 </playground>
