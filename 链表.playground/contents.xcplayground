@@ -7,5 +7,6 @@
         <page name='25. K 个一组翻转链表'/>
         <page name='21. 合并两个有序链表'/>
         <page name='面试题 02.01. 移除重复节点'/>
+        <page name='141. 环形链表'/>
     </pages>
 </playground>
