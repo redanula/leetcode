@@ -1,7 +1,7 @@
 /*
     关键：
-    时间复杂度：O(n)
-    空间复杂度：O(1)
+    时间复杂度：O(n*target)
+    空间复杂度：O(target)
 */
 
 class Solution {
