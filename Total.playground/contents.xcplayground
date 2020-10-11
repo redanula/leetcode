@@ -68,5 +68,6 @@
         <page name='216. 组合总和 III'/>
         <page name='75. 颜色分类'/>
         <page name='344. 反转字符串'/>
+        <page name='416. 分割等和子集'/>
     </pages>
 </playground>
