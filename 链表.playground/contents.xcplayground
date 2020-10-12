@@ -9,5 +9,6 @@
         <page name='面试题 02.01. 移除重复节点'/>
         <page name='141. 环形链表'/>
         <page name='142. 环形链表 II'/>
+        <page name='24. 两两交换链表中的节点'/>
     </pages>
 </playground>
