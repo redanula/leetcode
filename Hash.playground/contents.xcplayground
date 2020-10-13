@@ -7,5 +7,6 @@
         <page name='1. 两数之和'/>
         <page name='136. 只出现一次的数字'/>
         <page name='771. 宝石与石头'/>
+        <page name='1002. 查找常用字符'/>
     </pages>
 </playground>
