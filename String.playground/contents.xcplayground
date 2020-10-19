@@ -17,5 +17,6 @@
         <page name='20. 有效的括号'/>
         <page name='647. 回文子串'/>
         <page name='459. 重复的子字符串'/>
+        <page name='844. 比较含退格的字符串'/>
     </pages>
 </playground>
