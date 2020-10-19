@@ -11,5 +11,6 @@
         <page name='142. 环形链表 II'/>
         <page name='24. 两两交换链表中的节点'/>
         <page name='19. 删除链表的倒数第N个节点'/>
+        <page name='143. 重排链表'/>
     </pages>
 </playground>
