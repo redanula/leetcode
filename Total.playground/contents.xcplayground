@@ -70,5 +70,6 @@
         <page name='344. 反转字符串'/>
         <page name='416. 分割等和子集'/>
         <page name='977. 有序数组的平方'/>
+        <page name='845. 数组中的最长山脉'/>
     </pages>
 </playground>
