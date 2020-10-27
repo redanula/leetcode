@@ -72,5 +72,6 @@
         <page name='977. 有序数组的平方'/>
         <page name='845. 数组中的最长山脉'/>
         <page name='1365. 有多少小于当前数字的数字'/>
+        <page name='1207. 独一无二的出现次数'/>
     </pages>
 </playground>
