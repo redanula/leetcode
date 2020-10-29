@@ -41,5 +41,6 @@
         <page name='530. 二叉搜索树的最小绝对差'/>
         <page name='116. 填充每个节点的下一个右侧节点指针'/>
         <page name='144. 二叉树的前序遍历'/>
+        <page name='129. 求根到叶子节点数字之和'/>
     </pages>
 </playground>
