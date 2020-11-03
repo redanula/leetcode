@@ -77,5 +77,6 @@
         <page name='381. O(1) 时间插入、删除和获取随机元素 - 允许重复'/>
         <page name='349. 两个数组的交集'/>
         <page name='941. 有效的山脉数组'/>
+        <page name='57. 插入区间'/>
     </pages>
 </playground>
