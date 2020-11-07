@@ -78,5 +78,6 @@
         <page name='349. 两个数组的交集'/>
         <page name='941. 有效的山脉数组'/>
         <page name='57. 插入区间'/>
+        <page name='327. 区间和的个数'/>
     </pages>
 </playground>
