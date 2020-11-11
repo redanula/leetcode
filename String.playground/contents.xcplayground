@@ -21,5 +21,6 @@
         <page name='925. 长按键入'/>
         <page name='763. 划分字母区间'/>
         <page name='140. 单词拆分 II '/>
+        <page name='922. 按奇偶排序数组 II'/>
     </pages>
 </playground>
