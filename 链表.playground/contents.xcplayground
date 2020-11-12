@@ -13,5 +13,6 @@
         <page name='19. 删除链表的倒数第N个节点'/>
         <page name='143. 重排链表'/>
         <page name='234. 回文链表'/>
+        <page name='328. 奇偶链表'/>
     </pages>
 </playground>
