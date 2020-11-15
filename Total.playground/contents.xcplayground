@@ -83,5 +83,6 @@
         <page name='973. 最接近原点的 K 个点'/>
         <page name='31. 下一个排列'/>
         <page name='1122. 数组的相对排序'/>
+        <page name='402. 移掉K位数字'/>
     </pages>
 </playground>
