@@ -86,5 +86,6 @@
         <page name='402. 移掉K位数字'/>
         <page name='406. 根据身高重建队列'/>
         <page name='1030. 距离顺序排列矩阵单元格'/>
+        <page name='134. 加油站'/>
     </pages>
 </playground>
