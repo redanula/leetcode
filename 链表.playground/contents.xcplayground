@@ -14,5 +14,6 @@
         <page name='143. 重排链表'/>
         <page name='234. 回文链表'/>
         <page name='328. 奇偶链表'/>
+        <page name='147. 对链表进行插入排序'/>
     </pages>
 </playground>
