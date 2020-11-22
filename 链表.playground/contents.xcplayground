@@ -15,5 +15,6 @@
         <page name='234. 回文链表'/>
         <page name='328. 奇偶链表'/>
         <page name='147. 对链表进行插入排序'/>
+        <page name='148. 排序链表'/>
     </pages>
 </playground>
