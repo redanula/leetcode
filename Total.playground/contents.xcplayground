@@ -90,5 +90,6 @@
         <page name='283. 移动零'/>
         <page name='242. 有效的字母异位词'/>
         <page name='452. 用最少数量的箭引爆气球'/>
+        <page name='164. 最大间距'/>
     </pages>
 </playground>
