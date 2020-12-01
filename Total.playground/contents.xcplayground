@@ -94,5 +94,6 @@
         <page name='454. 四数相加 II'/>
         <page name='976. 三角形的最大周长'/>
         <page name='767. 重构字符串'/>
+        <page name='34. 在排序数组中查找元素的第一个和最后一个位置'/>
     </pages>
 </playground>
