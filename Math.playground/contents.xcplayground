@@ -16,5 +16,6 @@
         <page name='41. 缺失的第一个正数'/>
         <page name='679. 24 点游戏'/>
         <page name='201. 数字范围按位与'/>
+        <page name='204. 计数质数'/>
     </pages>
 </playground>
