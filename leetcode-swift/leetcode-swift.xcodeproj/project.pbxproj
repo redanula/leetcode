@@ -10,6 +10,7 @@
 		5D49E179257A02CE0000982B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D49E178257A02CE0000982B /* main.swift */; };
 		5D49E181257A030C0000982B /* 659. 分割数组为连续子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D49E180257A030C0000982B /* 659. 分割数组为连续子序列.swift */; };
 		5D49E18F257BD6100000982B /* 621. 任务调度器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D49E18E257BD6100000982B /* 621. 任务调度器.swift */; };
+		5D49E191257C6B270000982B /* 118. 杨辉三角.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D49E190257C6B270000982B /* 118. 杨辉三角.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		5D49E178257A02CE0000982B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5D49E180257A030C0000982B /* 659. 分割数组为连续子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "659. 分割数组为连续子序列.swift"; sourceTree = "<group>"; };
 		5D49E18E257BD6100000982B /* 621. 任务调度器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "621. 任务调度器.swift"; sourceTree = "<group>"; };
+		5D49E190257C6B270000982B /* 118. 杨辉三角.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. 杨辉三角.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			children = (
 				5D49E180257A030C0000982B /* 659. 分割数组为连续子序列.swift */,
 				5D49E18E257BD6100000982B /* 621. 任务调度器.swift */,
+				5D49E190257C6B270000982B /* 118. 杨辉三角.swift */,
 			);
 			path = 2020M12;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			files = (
 				5D49E179257A02CE0000982B /* main.swift in Sources */,
 				5D49E18F257BD6100000982B /* 621. 任务调度器.swift in Sources */,
+				5D49E191257C6B270000982B /* 118. 杨辉三角.swift in Sources */,
 				5D49E181257A030C0000982B /* 659. 分割数组为连续子序列.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
