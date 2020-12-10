@@ -5,7 +5,12 @@
 //  Created by ylj on 2020/12/10.
 //  Copyright © 2020 com. All rights reserved.
 //
-
+/*
+    First / Best
+    关键：
+    时间复杂度：O(n)
+    空间复杂度：O(1)
+*/
 import Foundation
 
 extension Solution {
