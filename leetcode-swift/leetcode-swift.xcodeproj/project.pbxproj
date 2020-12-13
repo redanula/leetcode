@@ -16,6 +16,7 @@
 		5D49E19F257DF18E0000982B /* 861. 翻转矩阵后的得分.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D49E19E257DF18E0000982B /* 861. 翻转矩阵后的得分.swift */; };
 		5D86ECF6258302F700D51B3C /* 649. Dota2 参议院.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D86ECF5258302F700D51B3C /* 649. Dota2 参议院.swift */; };
 		5D86ECFD2584492E00D51B3C /* 376. 摆动序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D86ECFC2584492E00D51B3C /* 376. 摆动序列.swift */; };
+		5D86ECFF25863C8F00D51B3C /* 217. 存在重复元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D86ECFE25863C8F00D51B3C /* 217. 存在重复元素.swift */; };
 		5D9EFAE8258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9EFAE7258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +43,7 @@
 		5D49E19E257DF18E0000982B /* 861. 翻转矩阵后的得分.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "861. 翻转矩阵后的得分.swift"; sourceTree = "<group>"; };
 		5D86ECF5258302F700D51B3C /* 649. Dota2 参议院.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "649. Dota2 参议院.swift"; sourceTree = "<group>"; };
 		5D86ECFC2584492E00D51B3C /* 376. 摆动序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "376. 摆动序列.swift"; sourceTree = "<group>"; };
+		5D86ECFE25863C8F00D51B3C /* 217. 存在重复元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. 存在重复元素.swift"; sourceTree = "<group>"; };
 		5D9EFAE7258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "842. 将数组拆分成斐波那契序列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,6 +95,7 @@
 				5D3125042581BE81001092FA /* 62. 不同路径.swift */,
 				5D86ECF5258302F700D51B3C /* 649. Dota2 参议院.swift */,
 				5D86ECFC2584492E00D51B3C /* 376. 摆动序列.swift */,
+				5D86ECFE25863C8F00D51B3C /* 217. 存在重复元素.swift */,
 			);
 			path = 2020M12;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				5D9EFAE8258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift in Sources */,
 				5D86ECFD2584492E00D51B3C /* 376. 摆动序列.swift in Sources */,
 				5D3125032581BE55001092FA /* 860. 柠檬水找零.swift in Sources */,
+				5D86ECFF25863C8F00D51B3C /* 217. 存在重复元素.swift in Sources */,
 				5D3125052581BE81001092FA /* 62. 不同路径.swift in Sources */,
 				5D86ECF6258302F700D51B3C /* 649. Dota2 参议院.swift in Sources */,
 				5D49E179257A02CE0000982B /* main.swift in Sources */,
