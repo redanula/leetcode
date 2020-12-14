@@ -22,7 +22,8 @@ let s = Solution()
 //let r = s.predictPartyVictory("RD")
 //let r2 = s.predictPartyVictory("RDD")
 //let r3 = s.predictPartyVictory("DDRRR")
-let r = s.wiggleMaxLength([1,7,4,9,2,5])
+//let r = s.wiggleMaxLength([1,7,4,9,2,5])
+let r = s.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])
 
 
 print(r)
