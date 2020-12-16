@@ -24,8 +24,9 @@ let s = Solution()
 //let r3 = s.predictPartyVictory("DDRRR")
 //let r = s.wiggleMaxLength([1,7,4,9,2,5])
 //let r = s.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])
-let r = s.monotoneIncreasingDigits(332)
-
+//let r = s.monotoneIncreasingDigits(332)
+let r = s.wordPattern("abba", "dog cat cat dog")
+//pattern = "abba", str = "dog cat cat dog"
 print(r)
 //print(r2)
 //print(r3)
