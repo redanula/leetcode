@@ -21,6 +21,7 @@
 		5D86ED012586FEBA00D51B3C /* 49. 字母异位词分组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D86ED002586FEBA00D51B3C /* 49. 字母异位词分组.swift */; };
 		5D9EFAE8258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9EFAE7258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift */; };
 		5DA4F567258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA4F566258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift */; };
+		5DA4F573258C4A4500E912F7 /* 389. 找不同.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA4F572258C4A4500E912F7 /* 389. 找不同.swift */; };
 		5DCAA82D2589AE0300C4E61B /* 290. 单词规律.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCAA82C2589AE0300C4E61B /* 290. 单词规律.swift */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,7 @@
 		5D86ED002586FEBA00D51B3C /* 49. 字母异位词分组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. 字母异位词分组.swift"; sourceTree = "<group>"; };
 		5D9EFAE7258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "842. 将数组拆分成斐波那契序列.swift"; sourceTree = "<group>"; };
 		5DA4F566258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "714. 买卖股票的最佳时机含手续费.swift"; sourceTree = "<group>"; };
+		5DA4F572258C4A4500E912F7 /* 389. 找不同.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "389. 找不同.swift"; sourceTree = "<group>"; };
 		5DCAA82C2589AE0300C4E61B /* 290. 单词规律.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. 单词规律.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,6 +110,7 @@
 				5D65BDE2258843D00083EC56 /* 738. 单调递增的数字.swift */,
 				5DCAA82C2589AE0300C4E61B /* 290. 单词规律.swift */,
 				5DA4F566258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift */,
+				5DA4F572258C4A4500E912F7 /* 389. 找不同.swift */,
 			);
 			path = 2020M12;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 			files = (
 				5D49E19F257DF18E0000982B /* 861. 翻转矩阵后的得分.swift in Sources */,
 				5D9EFAE8258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift in Sources */,
+				5DA4F573258C4A4500E912F7 /* 389. 找不同.swift in Sources */,
 				5D86ECFD2584492E00D51B3C /* 376. 摆动序列.swift in Sources */,
 				5D3125032581BE55001092FA /* 860. 柠檬水找零.swift in Sources */,
 				5D86ECFF25863C8F00D51B3C /* 217. 存在重复元素.swift in Sources */,
