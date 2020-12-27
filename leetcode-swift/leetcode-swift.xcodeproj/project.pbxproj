@@ -29,6 +29,7 @@
 		5DA8204D259269CC009F09CD /* 387. 字符串中的第一个唯一字符.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA8204C259269CC009F09CD /* 387. 字符串中的第一个唯一字符.swift */; };
 		5DA8204F25945E05009F09CD /* 135. 分发糖果.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA8204E25945E05009F09CD /* 135. 分发糖果.swift */; };
 		5DA82055259584BD009F09CD /* 455. 分发饼干.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA82054259584BD009F09CD /* 455. 分发饼干.swift */; };
+		5DA8207325982240009F09CD /* 205. 同构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA8207225982240009F09CD /* 205. 同构字符串.swift */; };
 		5DCAA82D2589AE0300C4E61B /* 290. 单词规律.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCAA82C2589AE0300C4E61B /* 290. 单词规律.swift */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +69,7 @@
 		5DA8204C259269CC009F09CD /* 387. 字符串中的第一个唯一字符.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. 字符串中的第一个唯一字符.swift"; sourceTree = "<group>"; };
 		5DA8204E25945E05009F09CD /* 135. 分发糖果.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "135. 分发糖果.swift"; sourceTree = "<group>"; };
 		5DA82054259584BD009F09CD /* 455. 分发饼干.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "455. 分发饼干.swift"; sourceTree = "<group>"; };
+		5DA8207225982240009F09CD /* 205. 同构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205. 同构字符串.swift"; sourceTree = "<group>"; };
 		5DCAA82C2589AE0300C4E61B /* 290. 单词规律.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. 单词规律.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -132,6 +134,7 @@
 				5DA8204C259269CC009F09CD /* 387. 字符串中的第一个唯一字符.swift */,
 				5DA8204E25945E05009F09CD /* 135. 分发糖果.swift */,
 				5DA82054259584BD009F09CD /* 455. 分发饼干.swift */,
+				5DA8207225982240009F09CD /* 205. 同构字符串.swift */,
 			);
 			path = 2020M12;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				5DCAA82D2589AE0300C4E61B /* 290. 单词规律.swift in Sources */,
 				5D3125052581BE81001092FA /* 62. 不同路径.swift in Sources */,
 				5DA8204D259269CC009F09CD /* 387. 字符串中的第一个唯一字符.swift in Sources */,
+				5DA8207325982240009F09CD /* 205. 同构字符串.swift in Sources */,
 				5DA4F567258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
 				5D86ECF6258302F700D51B3C /* 649. Dota2 参议院.swift in Sources */,
 				5D49E179257A02CE0000982B /* main.swift in Sources */,
