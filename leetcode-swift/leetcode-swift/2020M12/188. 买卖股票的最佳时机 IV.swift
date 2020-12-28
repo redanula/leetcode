@@ -9,8 +9,8 @@
 /*
     First / Best
     关键：
-    时间复杂度：O(n)
-    空间复杂度：O(n)
+    时间复杂度：O(n*min(n,k))
+    空间复杂度：O(n*min(n,k))
 */
 
 import Foundation
@@ -29,7 +29,7 @@ extension Solution {
         buy[0] = -prices[0]
 
         for i in 1..<n {
-           buy[0] = max(buy[0], sell[0] - prices[i])
+            buy[0] = max(buy[0], sell[0] - prices[i])
             for j in 1...limitK {
                buy[j] = max(buy[j], sell[j] - prices[i])
                sell[j] = max(sell[j], buy[j - 1] + prices[i])
