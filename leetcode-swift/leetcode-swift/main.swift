@@ -49,6 +49,8 @@ let s = Solution()
 //print(r188)
 //print(r188_2)
 
-let r330 = s.minPatches([1,5,10], 20)
-print(r330)
+//let r330 = s.minPatches([1,5,10], 20)
+//print(r330)
 
+let r1046 = s.lastStoneWeight([2,7,4,1,8,1])
+print(r1046)
