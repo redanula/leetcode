@@ -52,5 +52,9 @@ let s = Solution()
 //let r330 = s.minPatches([1,5,10], 20)
 //print(r330)
 
-let r1046 = s.lastStoneWeight([2,7,4,1,8,1])
-print(r1046)
+//let r1046 = s.lastStoneWeight([2,7,4,1,8,1])
+//print(r1046)
+
+let r605 = s.canPlaceFlowers([1,0,0,0,1], 2)
+print(r605)
+
