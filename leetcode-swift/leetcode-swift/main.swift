@@ -19,6 +19,15 @@ public class TreeNode {
     }
 }
 
+public class ListNode {
+    public var val: Int
+    public var next: ListNode?
+    public init(_ val: Int) {
+        self.val = val
+        self.next = nil
+    }
+}
+
 let s = Solution()
 //let r = s.isPossible([1,2,3,3,4,5,6])
 //let r = s.isPossible([1,2,3,4,4,5])
@@ -55,6 +64,8 @@ let s = Solution()
 //let r1046 = s.lastStoneWeight([2,7,4,1,8,1])
 //print(r1046)
 
-let r605 = s.canPlaceFlowers([1,0,0,0,1], 2)
-print(r605)
+//let r605 = s.canPlaceFlowers([1,0,0,0,1], 2)
+//print(r605)
 
+//let r86 = s.partition([1,0,0,0,1], 2)
+//print(r86)

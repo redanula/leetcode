@@ -21,6 +21,7 @@
 		5D86ED012586FEBA00D51B3C /* 49. 字母异位词分组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D86ED002586FEBA00D51B3C /* 49. 字母异位词分组.swift */; };
 		5D9C6B7E259C1CAB004156EB /* 1046. 最后一块石头的重量.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6B7D259C1CAB004156EB /* 1046. 最后一块石头的重量.swift */; };
 		5D9C6BA2259F649F004156EB /* 605. 种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */; };
+		5D9C6BA425A1D96E004156EB /* 86. 分隔链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */; };
 		5D9EFAE8258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9EFAE7258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift */; };
 		5DA4F567258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA4F566258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift */; };
 		5DA4F573258C4A4500E912F7 /* 389. 找不同.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA4F572258C4A4500E912F7 /* 389. 找不同.swift */; };
@@ -65,6 +66,7 @@
 		5D86ED002586FEBA00D51B3C /* 49. 字母异位词分组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. 字母异位词分组.swift"; sourceTree = "<group>"; };
 		5D9C6B7D259C1CAB004156EB /* 1046. 最后一块石头的重量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1046. 最后一块石头的重量.swift"; sourceTree = "<group>"; };
 		5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605. 种花问题.swift"; sourceTree = "<group>"; };
+		5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. 分隔链表.swift"; sourceTree = "<group>"; };
 		5D9EFAE7258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "842. 将数组拆分成斐波那契序列.swift"; sourceTree = "<group>"; };
 		5DA4F566258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "714. 买卖股票的最佳时机含手续费.swift"; sourceTree = "<group>"; };
 		5DA4F572258C4A4500E912F7 /* 389. 找不同.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "389. 找不同.swift"; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 		5D49E177257A02CE0000982B /* leetcode-swift */ = {
 			isa = PBXGroup;
 			children = (
+				5D9C6BA525A1DFF0004156EB /* 2021M01 */,
 				5D49E17F257A02E00000982B /* 2020M12 */,
 				5D49E178257A02CE0000982B /* main.swift */,
 			);
@@ -146,9 +149,17 @@
 				5DA82074259978F5009F09CD /* 188. 买卖股票的最佳时机 IV.swift */,
 				5DA820EF259AD255009F09CD /* 330. 按要求补齐数组.swift */,
 				5D9C6B7D259C1CAB004156EB /* 1046. 最后一块石头的重量.swift */,
-				5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */,
 			);
 			path = 2020M12;
+			sourceTree = "<group>";
+		};
+		5D9C6BA525A1DFF0004156EB /* 2021M01 */ = {
+			isa = PBXGroup;
+			children = (
+				5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */,
+				5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */,
+			);
+			path = 2021M01;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D9C6B7E259C1CAB004156EB /* 1046. 最后一块石头的重量.swift in Sources */,
+				5D9C6BA425A1D96E004156EB /* 86. 分隔链表.swift in Sources */,
 				5D49E19F257DF18E0000982B /* 861. 翻转矩阵后的得分.swift in Sources */,
 				5D9EFAE8258067BC00E4E1BA /* 842. 将数组拆分成斐波那契序列.swift in Sources */,
 				5DA4F573258C4A4500E912F7 /* 389. 找不同.swift in Sources */,
