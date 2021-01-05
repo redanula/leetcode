@@ -70,5 +70,8 @@ let s = Solution()
 //let r86 = s.partition([1,0,0,0,1], 2)
 //print(r86)
 
-let r509 = s.fib(4)
-print(r509)
+//let r509 = s.fib(4)
+//print(r509)
+
+let r830 = s.largeGroupPositions("abcdddeeeeaabbbcd")
+print(r830)

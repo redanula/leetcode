@@ -37,6 +37,7 @@
 		5DA82075259978F5009F09CD /* 188. 买卖股票的最佳时机 IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA82074259978F5009F09CD /* 188. 买卖股票的最佳时机 IV.swift */; };
 		5DA820F0259AD255009F09CD /* 330. 按要求补齐数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA820EF259AD255009F09CD /* 330. 按要求补齐数组.swift */; };
 		5DCAA82D2589AE0300C4E61B /* 290. 单词规律.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCAA82C2589AE0300C4E61B /* 290. 单词规律.swift */; };
+		5DF2399C25A42D4200B4C3E6 /* 830. 较大分组的位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DF2399B25A42D4200B4C3E6 /* 830. 较大分组的位置.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +84,7 @@
 		5DA82074259978F5009F09CD /* 188. 买卖股票的最佳时机 IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "188. 买卖股票的最佳时机 IV.swift"; sourceTree = "<group>"; };
 		5DA820EF259AD255009F09CD /* 330. 按要求补齐数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "330. 按要求补齐数组.swift"; sourceTree = "<group>"; };
 		5DCAA82C2589AE0300C4E61B /* 290. 单词规律.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. 单词规律.swift"; sourceTree = "<group>"; };
+		5DF2399B25A42D4200B4C3E6 /* 830. 较大分组的位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "830. 较大分组的位置.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 				5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */,
 				5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */,
 				5D9C6BA625A2B6F1004156EB /* 509. 斐波那契数.swift */,
+				5DF2399B25A42D4200B4C3E6 /* 830. 较大分组的位置.swift */,
 			);
 			path = 2021M01;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				5DA82075259978F5009F09CD /* 188. 买卖股票的最佳时机 IV.swift in Sources */,
 				5D86ECFD2584492E00D51B3C /* 376. 摆动序列.swift in Sources */,
 				5DA82055259584BD009F09CD /* 455. 分发饼干.swift in Sources */,
+				5DF2399C25A42D4200B4C3E6 /* 830. 较大分组的位置.swift in Sources */,
 				5DA4F575258E01D300E912F7 /* 48. 旋转图像.swift in Sources */,
 				5DA820422591ACAE009F09CD /* 103. 二叉树的锯齿形层序遍历.swift in Sources */,
 				5D3125032581BE55001092FA /* 860. 柠檬水找零.swift in Sources */,
