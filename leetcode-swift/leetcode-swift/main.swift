@@ -73,5 +73,8 @@ let s = Solution()
 //let r509 = s.fib(4)
 //print(r509)
 
-let r830 = s.largeGroupPositions("abcdddeeeeaabbbcd")
-print(r830)
+//let r830 = s.largeGroupPositions("abcdddeeeeaabbbcd")
+//print(r830)
+
+let r1232 = s.checkStraightLine([[0,0],[0,5],[5,0],[1337,0],[0,1337]])
+print(r1232)
