@@ -21,6 +21,7 @@
 		5D86ED012586FEBA00D51B3C /* 49. 字母异位词分组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D86ED002586FEBA00D51B3C /* 49. 字母异位词分组.swift */; };
 		5D8F668225B421B5000C045F /* 1232. 缀点成线.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8F668125B421B5000C045F /* 1232. 缀点成线.swift */; };
 		5D8F668825B5D242000C045F /* 721. 账户合并.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8F668725B5D242000C045F /* 721. 账户合并.swift */; };
+		5D8F668A25B65706000C045F /* 1584. 连接所有点的最小费用.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8F668925B65706000C045F /* 1584. 连接所有点的最小费用.swift */; };
 		5D9C6B7E259C1CAB004156EB /* 1046. 最后一块石头的重量.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6B7D259C1CAB004156EB /* 1046. 最后一块石头的重量.swift */; };
 		5D9C6BA2259F649F004156EB /* 605. 种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */; };
 		5D9C6BA425A1D96E004156EB /* 86. 分隔链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */; };
@@ -70,6 +71,7 @@
 		5D86ED002586FEBA00D51B3C /* 49. 字母异位词分组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. 字母异位词分组.swift"; sourceTree = "<group>"; };
 		5D8F668125B421B5000C045F /* 1232. 缀点成线.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1232. 缀点成线.swift"; sourceTree = "<group>"; };
 		5D8F668725B5D242000C045F /* 721. 账户合并.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "721. 账户合并.swift"; sourceTree = "<group>"; };
+		5D8F668925B65706000C045F /* 1584. 连接所有点的最小费用.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1584. 连接所有点的最小费用.swift"; sourceTree = "<group>"; };
 		5D9C6B7D259C1CAB004156EB /* 1046. 最后一块石头的重量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1046. 最后一块石头的重量.swift"; sourceTree = "<group>"; };
 		5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605. 种花问题.swift"; sourceTree = "<group>"; };
 		5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. 分隔链表.swift"; sourceTree = "<group>"; };
@@ -170,6 +172,7 @@
 				5DF2399B25A42D4200B4C3E6 /* 830. 较大分组的位置.swift */,
 				5D8F668125B421B5000C045F /* 1232. 缀点成线.swift */,
 				5D8F668725B5D242000C045F /* 721. 账户合并.swift */,
+				5D8F668925B65706000C045F /* 1584. 连接所有点的最小费用.swift */,
 			);
 			path = 2021M01;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				5D86ECFF25863C8F00D51B3C /* 217. 存在重复元素.swift in Sources */,
 				5D86ED012586FEBA00D51B3C /* 49. 字母异位词分组.swift in Sources */,
 				5DCAA82D2589AE0300C4E61B /* 290. 单词规律.swift in Sources */,
+				5D8F668A25B65706000C045F /* 1584. 连接所有点的最小费用.swift in Sources */,
 				5D9C6BA2259F649F004156EB /* 605. 种花问题.swift in Sources */,
 				5DA820F0259AD255009F09CD /* 330. 按要求补齐数组.swift in Sources */,
 				5D3125052581BE81001092FA /* 62. 不同路径.swift in Sources */,
