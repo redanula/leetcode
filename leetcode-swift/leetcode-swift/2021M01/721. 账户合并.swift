@@ -10,7 +10,7 @@
     First / Best
     关键：
     时间复杂度：O(nlogn)
-    空间复杂度：O(1)
+    空间复杂度：O(n)
 */
 import Foundation
 
@@ -71,23 +71,52 @@ extension Solution {
 
 // 并查集
 class UnionFind {
-    private var parents: [Int]
     
-    init(_ size: Int) {
-        parents = Array<Int>(0..<size)
+    // 连通分量个数
+    private var count: Int
+    // 存储树
+    private var parents: [Int]
+    // 树的权重
+    private var size: [Int]
+    
+    init(_ n: Int) {
+        // 初始化根节点
+        count = n
+        parents = Array<Int>(0..<count)
+        size = Array.init(repeating: 1, count: count)
     }
     
     func union(x: Int, y: Int) {
         let rootX = find(node: x)
         let rootY = find(node: y)
-        parents[rootX] = rootY
+        if rootX == rootY {
+            return
+        }
+        // 大小树平衡优化
+        if size[rootX] > size[rootY] {
+            parents[rootY] = rootX
+            size[rootX] += size[rootY]
+        } else {
+            parents[rootX] = rootY
+            size[rootY] += size[rootX]
+        }
+        count -= 1
     }
     
     func find(node: Int) -> Int {
-        if node != parents[node] {
-            parents[node] = find(node: parents[node])
+        var node = node
+        while node != parents[node] {
+            // 路径压缩
+            parents[node] = parents[parents[node]]
+            node = parents[node]
         }
         
-        return parents[node]
+        return node
+    }
+    
+    func connected(x: Int, y: Int) -> Bool {
+        let rootX = find(node: x)
+        let rootY = find(node: y)
+        return rootX == rootY
     }
 }
