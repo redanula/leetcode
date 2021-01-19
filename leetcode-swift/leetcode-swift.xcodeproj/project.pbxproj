@@ -22,6 +22,7 @@
 		5D8F668225B421B5000C045F /* 1232. 缀点成线.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8F668125B421B5000C045F /* 1232. 缀点成线.swift */; };
 		5D8F668825B5D242000C045F /* 721. 账户合并.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8F668725B5D242000C045F /* 721. 账户合并.swift */; };
 		5D8F668A25B65706000C045F /* 1584. 连接所有点的最小费用.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8F668925B65706000C045F /* 1584. 连接所有点的最小费用.swift */; };
+		5D8F669825B73A36000C045F /* 628. 三个数的最大乘积.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8F669725B73A36000C045F /* 628. 三个数的最大乘积.swift */; };
 		5D9C6B7E259C1CAB004156EB /* 1046. 最后一块石头的重量.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6B7D259C1CAB004156EB /* 1046. 最后一块石头的重量.swift */; };
 		5D9C6BA2259F649F004156EB /* 605. 种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */; };
 		5D9C6BA425A1D96E004156EB /* 86. 分隔链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */; };
@@ -72,6 +73,7 @@
 		5D8F668125B421B5000C045F /* 1232. 缀点成线.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1232. 缀点成线.swift"; sourceTree = "<group>"; };
 		5D8F668725B5D242000C045F /* 721. 账户合并.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "721. 账户合并.swift"; sourceTree = "<group>"; };
 		5D8F668925B65706000C045F /* 1584. 连接所有点的最小费用.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1584. 连接所有点的最小费用.swift"; sourceTree = "<group>"; };
+		5D8F669725B73A36000C045F /* 628. 三个数的最大乘积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. 三个数的最大乘积.swift"; sourceTree = "<group>"; };
 		5D9C6B7D259C1CAB004156EB /* 1046. 最后一块石头的重量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1046. 最后一块石头的重量.swift"; sourceTree = "<group>"; };
 		5D9C6BA1259F649F004156EB /* 605. 种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605. 种花问题.swift"; sourceTree = "<group>"; };
 		5D9C6BA325A1D96E004156EB /* 86. 分隔链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. 分隔链表.swift"; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				5D8F668125B421B5000C045F /* 1232. 缀点成线.swift */,
 				5D8F668725B5D242000C045F /* 721. 账户合并.swift */,
 				5D8F668925B65706000C045F /* 1584. 连接所有点的最小费用.swift */,
+				5D8F669725B73A36000C045F /* 628. 三个数的最大乘积.swift */,
 			);
 			path = 2021M01;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 				5D9C6BA2259F649F004156EB /* 605. 种花问题.swift in Sources */,
 				5DA820F0259AD255009F09CD /* 330. 按要求补齐数组.swift in Sources */,
 				5D3125052581BE81001092FA /* 62. 不同路径.swift in Sources */,
+				5D8F669825B73A36000C045F /* 628. 三个数的最大乘积.swift in Sources */,
 				5DA8204D259269CC009F09CD /* 387. 字符串中的第一个唯一字符.swift in Sources */,
 				5DA8207325982240009F09CD /* 205. 同构字符串.swift in Sources */,
 				5DA4F567258AF3AC00E912F7 /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
