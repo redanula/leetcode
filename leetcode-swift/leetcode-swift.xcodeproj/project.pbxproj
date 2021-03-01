@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D1E653A25ECB04C00A58D86 /* 303. 区域和检索 - 数组不可变.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D1E653925ECB04C00A58D86 /* 303. 区域和检索 - 数组不可变.swift */; };
 		5D3125032581BE55001092FA /* 860. 柠檬水找零.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3125022581BE55001092FA /* 860. 柠檬水找零.swift */; };
 		5D3125052581BE81001092FA /* 62. 不同路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D3125042581BE81001092FA /* 62. 不同路径.swift */; };
 		5D49E179257A02CE0000982B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D49E178257A02CE0000982B /* main.swift */; };
@@ -57,6 +58,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5D1E653925ECB04C00A58D86 /* 303. 区域和检索 - 数组不可变.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "303. 区域和检索 - 数组不可变.swift"; sourceTree = "<group>"; };
 		5D3125022581BE55001092FA /* 860. 柠檬水找零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "860. 柠檬水找零.swift"; sourceTree = "<group>"; };
 		5D3125042581BE81001092FA /* 62. 不同路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. 不同路径.swift"; sourceTree = "<group>"; };
 		5D49E175257A02CE0000982B /* leetcode-swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-swift"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -106,6 +108,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D1E653825ECB00200A58D86 /* 2021M03 */ = {
+			isa = PBXGroup;
+			children = (
+				5D1E653925ECB04C00A58D86 /* 303. 区域和检索 - 数组不可变.swift */,
+			);
+			path = 2021M03;
+			sourceTree = "<group>";
+		};
 		5D49E16C257A02CE0000982B = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +135,7 @@
 		5D49E177257A02CE0000982B /* leetcode-swift */ = {
 			isa = PBXGroup;
 			children = (
+				5D1E653825ECB00200A58D86 /* 2021M03 */,
 				5D9C6BA525A1DFF0004156EB /* 2021M01 */,
 				5D49E17F257A02E00000982B /* 2020M12 */,
 				5D49E178257A02CE0000982B /* main.swift */,
@@ -245,6 +256,7 @@
 				5DA4F573258C4A4500E912F7 /* 389. 找不同.swift in Sources */,
 				5DA82075259978F5009F09CD /* 188. 买卖股票的最佳时机 IV.swift in Sources */,
 				5D86ECFD2584492E00D51B3C /* 376. 摆动序列.swift in Sources */,
+				5D1E653A25ECB04C00A58D86 /* 303. 区域和检索 - 数组不可变.swift in Sources */,
 				5DA82055259584BD009F09CD /* 455. 分发饼干.swift in Sources */,
 				5DF2399C25A42D4200B4C3E6 /* 830. 较大分组的位置.swift in Sources */,
 				5D8F668225B421B5000C045F /* 1232. 缀点成线.swift in Sources */,
