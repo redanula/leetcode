@@ -79,5 +79,7 @@ let s = Solution()
 //let r1232 = s.checkStraightLine([[0,0],[0,5],[5,0],[1337,0],[0,1337]])
 //print(r1232)
 
-let r721 = s.accountsMerge([["John","johnsmith@mail.com","john_newyork@mail.com"],["John","johnsmith@mail.com","john00@mail.com"],["Mary","mary@mail.com"],["John","johnnybravo@mail.com"]])
-print(r721)
+//let r721 = s.accountsMerge([["John","johnsmith@mail.com","john_newyork@mail.com"],["John","johnsmith@mail.com","john00@mail.com"],["Mary","mary@mail.com"],["John","johnnybravo@mail.com"]])
+//print(r721)
+
+//
